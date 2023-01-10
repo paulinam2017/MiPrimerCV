@@ -1,0 +1,50 @@
+p {
+     color: blueviolet;
+     width: 300px;
+     border: 20px;color: darkgreen;
+     margin: 90px;
+     letter-spacing: 2px;
+    
+
+ }
+
+ h1 {
+    font-family:  'Yeon Sung', cursive;
+     color: silver;
+     width: 500px;
+     padding: 7px;
+     border-color: rgb(102, 10, 10);
+     margin-bottom: 10px;
+     margin-top: 20px;
+     margin-left: 60px;
+     margin-right: 60px;
+ }
+
+ section {
+    width: 400px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 30px;
+  }
+
+  #mi_parrafo {
+    background-color: black;
+    border: 23px;
+    font-size: 15px;
+  }
+
+  .mi_clase {
+    color: crimson;
+    font-size: 13px;
+    border-color: yellowgreen;
+
+  }
+/**
+  section h1{ aqui cambian todos los h1 o cualquier element.lo dejo coment para no modificar otras cosas
+    color: blue;
+    border-color: black;
+    
+  }
+  */
+
+  
